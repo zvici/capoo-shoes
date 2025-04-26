@@ -10,7 +10,7 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "@nuxt/scripts",
     "nuxt-svgo",
-    "@nuxt/ui-pro"
+    "@nuxt/ui"
   ],
   icon: {
     customCollections: [
